@@ -1,11 +1,11 @@
 # express-starter
 
 # Required
-NodeJs 12.x or Latest Version
-MongoDb
+- NodeJs 12.x or Latest Version
+- MongoDb
 
 # Installation
-npm install
+$npm install
 
 # Usage
-npm run start
+$npm run start
