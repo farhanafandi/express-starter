@@ -1,11 +1,21 @@
 # express-starter
 
-# Required
+This is the master minimal structure for node js project with express.
+
+## Required
 - NodeJs 12.x or Latest Version
 - MongoDb
 
-# Installation
-$npm install
+## Installation
+```sh
+npm install
+```
 
-# Usage
-$npm run start
+## Usage
+```sh
+npm run start
+```
+
+## License
+
+MIT
