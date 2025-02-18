@@ -13,6 +13,6 @@ RUN npm install
 # Copy semua file aplikasi ke dalam container
 COPY . .
 
-# Jalankan aplikasi pada port 3000
-EXPOSE 3000
+# Jalankan aplikasi pada port 3010
+EXPOSE 3010
 CMD ["npm", "start"]
