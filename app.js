@@ -32,7 +32,7 @@ app.get('/', (req, res) => {
 
 webRoutes(app);
 
-const port = process.env.PORT || 7000;
+const port = process.env.PORT || 3010;
 app.listen(port, () => {
     console.log("Server is listening on port " + port);
 });
